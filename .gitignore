@@ -1,0 +1,5 @@
+.well-known/*
+cgi-bin/*
+vendor/*
+config.php
+composer.phar

@@ -1,0 +1,7 @@
+# Turn off indexing
+Options -Indexes
+# Redirect any sneaky traffic back to where it should be
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^notes\.epace\.au$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.notes\.epace\.au$
+RewriteRule ^(.*)$ "https\:\/\/notes\.epace\.au" [R=301,L]

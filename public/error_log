@@ -1,0 +1,16 @@
+[02-Sep-2024 10:06:18 Australia/Sydney] PHP Warning:  Undefined array key "created_at" in /home/epace/notes/api/classes/NoteEntity.php on line 17
+[02-Sep-2024 10:06:18 Australia/Sydney] PHP Warning:  Undefined array key "updated_at" in /home/epace/notes/api/classes/NoteEntity.php on line 18
+[02-Sep-2024 10:17:41 Australia/Sydney] PHP Warning:  Undefined array key "created_at" in /home/epace/notes/api/classes/NoteEntity.php on line 17
+[02-Sep-2024 10:17:41 Australia/Sydney] PHP Warning:  Undefined array key "updated_at" in /home/epace/notes/api/classes/NoteEntity.php on line 18
+[02-Sep-2024 10:18:29 Australia/Sydney] PHP Warning:  Undefined array key "created_at" in /home/epace/notes/api/classes/NoteEntity.php on line 17
+[02-Sep-2024 10:18:29 Australia/Sydney] PHP Warning:  Undefined array key "updated_at" in /home/epace/notes/api/classes/NoteEntity.php on line 18
+[02-Sep-2024 10:24:16 Australia/Sydney] PHP Warning:  Undefined array key "created_at" in /home/epace/notes/api/classes/NoteEntity.php on line 17
+[02-Sep-2024 10:24:16 Australia/Sydney] PHP Warning:  Undefined array key "updated_at" in /home/epace/notes/api/classes/NoteEntity.php on line 18
+[02-Sep-2024 10:24:24 Australia/Sydney] PHP Warning:  Undefined array key "created_at" in /home/epace/notes/api/classes/NoteEntity.php on line 17
+[02-Sep-2024 10:24:24 Australia/Sydney] PHP Warning:  Undefined array key "updated_at" in /home/epace/notes/api/classes/NoteEntity.php on line 18
+[02-Sep-2024 10:24:25 Australia/Sydney] PHP Warning:  Undefined array key "created_at" in /home/epace/notes/api/classes/NoteEntity.php on line 17
+[02-Sep-2024 10:24:25 Australia/Sydney] PHP Warning:  Undefined array key "updated_at" in /home/epace/notes/api/classes/NoteEntity.php on line 18
+[02-Sep-2024 10:25:05 Australia/Sydney] PHP Warning:  Undefined array key "created_at" in /home/epace/notes/api/classes/NoteEntity.php on line 17
+[02-Sep-2024 10:25:05 Australia/Sydney] PHP Warning:  Undefined array key "updated_at" in /home/epace/notes/api/classes/NoteEntity.php on line 18
+[02-Sep-2024 10:26:15 Australia/Sydney] PHP Warning:  Undefined array key "created_at" in /home/epace/notes/api/classes/NoteEntity.php on line 17
+[02-Sep-2024 10:26:15 Australia/Sydney] PHP Warning:  Undefined array key "updated_at" in /home/epace/notes/api/classes/NoteEntity.php on line 18
